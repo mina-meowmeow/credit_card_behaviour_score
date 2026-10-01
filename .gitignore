@@ -1,0 +1,7 @@
+# raw data (too large for GitHub; see README)
+Dev_data_to_be_shared.csv
+validation_data_to_be_shared.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.venv/

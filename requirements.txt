@@ -1,0 +1,11 @@
+pandas>=2.3
+numpy>=2.3
+scipy>=1.16
+scikit-learn>=1.7
+lightgbm>=4.6
+imbalanced-learn>=0.14
+optbinning>=0.20
+shap>=0.52
+matplotlib>=3.10
+seaborn>=0.13
+jupyter
